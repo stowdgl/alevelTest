@@ -1,0 +1,21 @@
+html{
+    background: cadetblue ;
+}
+.title{
+    text-align: center;
+    font-size: 60px;
+}
+#colId{
+    border: 2px solid #6c757d;
+    margin-right: 100px;
+    background-color: #fff3c2;
+    padding: 15px;
+    margin-top: 75px;
+
+}
+.container{
+    vertical-align: middle;
+}
+body{
+    background-color: transparent !important;
+}
